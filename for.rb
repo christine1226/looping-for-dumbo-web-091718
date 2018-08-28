@@ -4,5 +4,3 @@ def using_for
 	for item in using_for
 	puts "Wingardium Leviosa"
 end
-
-
